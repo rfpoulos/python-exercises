@@ -1,0 +1,10 @@
+touch index.html
+mkdir scripts
+cd scripts
+touch main.js
+cd ..
+mkdir stylesheets
+cd stylesheets
+touch styles.css
+cd ..
+open index.html
